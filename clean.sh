@@ -5,7 +5,7 @@ green=$'\e[0;32m'
 end=$'\e[0m'
 
 git_dir=".git"
-usage="Usage: ./delete.sh -p PATH_TO_DIR"
+usage="Usage: ./clean.sh -p PATH_TO_DIR"
 
 while getopts ":p:" opt; do
   case $opt in
