@@ -1,7 +1,7 @@
-Clean Tags
+Git Clean Tags
 -------
 
-This is a simple way of cleaning old tags in a given git repo.
+A simple way of cleaning old tags in a given Git repo.
 
 #### Setup
 
