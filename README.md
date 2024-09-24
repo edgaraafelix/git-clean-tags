@@ -1,8 +1,6 @@
 Git Clean Tags
 -------
 
-A simple way of cleaning old tags in a Git repo.
-
 #### Setup
 
 Navigate to any directory of your choice and ```git clone``` the repository as follows:
